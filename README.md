@@ -1,6 +1,7 @@
 README.md
-Titanic Data Cleaning and Preprocessing using Python
-Project Overview
+
+ Titanic Data Cleaning and Preprocessing using Python
+  Project Overview
 
 This project demonstrates the complete data cleaning and preprocessing workflow using the Titanic dataset. The goal is to transform raw data into a clean, structured, and analysis-ready format by addressing common data quality issues such as missing values, duplicate records, inconsistent formats, and categorical variables.
 
